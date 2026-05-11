@@ -1,2 +1,9 @@
-# EECE-571Q-FTQC
-Fault-tolerant quantum computation course (UBC summer 2026)
+# EECE 571Q: Fault-tolerant quantum computing (UBC ECE, Summer 2026)
+
+These materials are open source and free for anyone to use and adapt as they wish.
+
+
+## Lectures
+
+1. [2026-05-12] What could possibly go wrong? 
+
