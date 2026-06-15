@@ -15,3 +15,4 @@ These materials are open source and free for anyone to use and adapt as they wis
 1. [2026-06-04] Fault-tolerance and threshold conditions
 1. [2026-06-09] Beneath the surface (part 1) 
 1. [2026-06-11] Beneath the surface (part 2) 
+1. [2026-06-16] Do you believe in magic?
